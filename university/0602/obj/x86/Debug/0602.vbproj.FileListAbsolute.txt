@@ -1,0 +1,10 @@
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\bin\Debug\0602.exe
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\bin\Debug\0602.pdb
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\bin\Debug\0602.xml
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\obj\x86\Debug\0602.vbproj.GenerateResource.Cache
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\obj\x86\Debug\0602.exe
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\obj\x86\Debug\0602.xml
+C:\Users\pcsa1\documents\visual studio 2010\Projects\0602\0602\obj\x86\Debug\0602.pdb
+C:\Users\pcsa1\Documents\Visual Studio 2010\Projects\0602\0602\obj\x86\Debug\WindowsApplication1.game.resources
